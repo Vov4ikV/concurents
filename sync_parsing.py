@@ -25,7 +25,7 @@ def load_pages(urls):
     with requests.session() as s:
         for link in urls:
             resp = s.get(link, headers=HEADERS)
-            with open(f'download/{link[link.rfind("/")+1:]}', 'wb') as file:
+            with open(f'Downloads/{link[link.rfind("/")+1:]}', 'wb') as file:
                 file.write(resp.content)
                 print(f'Download file {link}')
 
