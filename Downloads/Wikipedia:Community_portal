@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Wikipedia:Community portal - Wikipedia</title>
-<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c60e4cad-37d3-48cc-9ca2-141e7fa5edd0","wgCSPNonce":false,
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d328033c-fa71-4eb1-9130-d716054b7618","wgCSPNonce":false,
 "wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Community_portal","wgTitle":"Community portal","wgCurRevisionId":1156764209,"wgRevisionId":1156764209,"wgArticleId":1051901,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected project pages","Wikipedia move-protected project pages","Wikipedia basic information","Wikipedia discussion","Wikipedia directories","Wikipedia news","Wikipedia noticeboards"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikipedia:Community_portal","wgRelevantArticleId":1051901,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr",
 "pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":5000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgDiscussionToolsFeaturesEnabled":{"replytool":true,"newtopictool":true,"sourcemodetoolbar":true,"topicsubscription":false,"autotopicsub":false,"visualenhancements":false,"visualenhancements_reply":false,"visualenhancements_pageframe":false},"wgDiscussionToolsFallbackEditMode":"source","wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q4654925","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser"
 :false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","ext.discussionTools.init.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init",
@@ -596,11 +596,11 @@ You can help improve the articles listed below! This list updates frequently, so
 <div id="copyedit-label" style="text-align:center; background: #f7f7f7; border: 1px solid #aaaaaa; padding: .4em; font-size: 110%; font-weight: bold;">Fix spelling and grammar
 </div>
 <div id="copyedit">
-<ul><li><a href="/wiki/Shakira_live_performances" title="Shakira live performances">Shakira live performances</a></li>
-<li><a href="/wiki/Majayjay" title="Majayjay">Majayjay</a></li>
-<li><a href="/wiki/Kane_Phillips" title="Kane Phillips">Kane Phillips</a></li>
-<li><a href="/wiki/Doctor_Manhattan" title="Doctor Manhattan">Doctor Manhattan</a></li>
-<li><a href="/wiki/Cisneros_v._CCISD" title="Cisneros v. CCISD">Cisneros v. CCISD</a></li></ul></div>
+<ul><li><a href="/wiki/Bhagyalakshmi" title="Bhagyalakshmi">Bhagyalakshmi</a></li>
+<li><a href="/wiki/Corps_of_drums" title="Corps of drums">Corps of drums</a></li>
+<li><a href="/wiki/Benjamin_Schwarz_(writer)" title="Benjamin Schwarz (writer)">Benjamin Schwarz (writer)</a></li>
+<li><a href="/wiki/Pink_Siifu" title="Pink Siifu">Pink Siifu</a></li>
+<li><a href="/wiki/Hedera_helix" title="Hedera helix">Hedera helix</a></li></ul></div>
 <div style="margin: .2em 1.6em .6em; font-weight: bold;"><i><a href="/wiki/Category:Wikipedia_articles_needing_copy_edit" title="Category:Wikipedia articles needing copy edit">More...</a></i> • <a href="/wiki/Wikipedia:Basic_copyediting" title="Wikipedia:Basic copyediting">Learn how</a>
 </div>
 </div>
@@ -608,11 +608,11 @@ You can help improve the articles listed below! This list updates frequently, so
 <div id="wikify-label" style="text-align:center; background: #f7f7f7; border: 1px solid #aaaaaa; padding: .4em; font-size: 110%; font-weight: bold;">Fix wikilinks
 </div>
 <div id="wikify">
-<ul><li><a href="/wiki/Area_under_the_curve_(pharmacokinetics)" title="Area under the curve (pharmacokinetics)">Area under the curve (pharmacokinetics)</a></li>
+<ul><li><a href="/wiki/Bathroom_remodeling" title="Bathroom remodeling">Bathroom remodeling</a></li>
+<li><a href="/wiki/Area_under_the_curve_(pharmacokinetics)" title="Area under the curve (pharmacokinetics)">Area under the curve (pharmacokinetics)</a></li>
 <li><a href="/wiki/Farewell_to_the_Master" title="Farewell to the Master">Farewell to the Master</a></li>
-<li><a href="/w/index.php?title=The_Most_Racist_Soccer_League_in_the_World&amp;action=edit&amp;redlink=1" class="new" title="The Most Racist Soccer League in the World (page does not exist)">The Most Racist Soccer League in the World</a></li>
 <li><a href="/wiki/The_Innovation_Delusion" title="The Innovation Delusion">The Innovation Delusion</a></li>
-<li><a href="/wiki/Bathroom_remodeling" title="Bathroom remodeling">Bathroom remodeling</a></li></ul></div>
+<li><a href="/w/index.php?title=The_Most_Racist_Soccer_League_in_the_World&amp;action=edit&amp;redlink=1" class="new" title="The Most Racist Soccer League in the World (page does not exist)">The Most Racist Soccer League in the World</a></li></ul></div>
 <div style="margin: .2em 1.6em .6em; font-weight: bold;"><i><a href="/wiki/Category:All_articles_with_too_few_wikilinks" title="Category:All articles with too few wikilinks">More...</a></i> • <a href="/wiki/Help:Wikitext#Wikilinks" title="Help:Wikitext">Learn how</a>
 </div>
 </div>
@@ -620,11 +620,11 @@ You can help improve the articles listed below! This list updates frequently, so
 <div id="update-label" style="text-align:center; background: #f7f7f7; border: 1px solid #aaaaaa; padding: .4em; font-size: 110%; font-weight: bold;">Update with new information
 </div>
 <div id="update">
-<ul><li><a href="/wiki/Consumer_confidence_index" title="Consumer confidence index">Consumer confidence index</a></li>
-<li><a href="/wiki/V%C3%B6hl" title="Vöhl">Vöhl</a></li>
-<li><a href="/wiki/Channel_One_(band)" title="Channel One (band)">Channel One (band)</a></li>
-<li><a href="/wiki/Timeline_of_Colombia%E2%80%93Nicaragua_relations" title="Timeline of Colombia–Nicaragua relations">Timeline of Colombia–Nicaragua relations</a></li>
-<li><a href="/wiki/Alleged_Violations_of_the_1955_Treaty_of_Amity_(Iran_v._United_States)" title="Alleged Violations of the 1955 Treaty of Amity (Iran v. United States)">Alleged Violations of the 1955 Treaty of Amity (Iran v. United States)</a></li></ul></div>
+<ul><li><a href="/wiki/Pornographic_film_actor" title="Pornographic film actor">Pornographic film actor</a></li>
+<li><a href="/wiki/George_Affleck_(entrepreneur)" title="George Affleck (entrepreneur)">George Affleck (entrepreneur)</a></li>
+<li><a href="/wiki/Pfaffen-Schwabenheim" title="Pfaffen-Schwabenheim">Pfaffen-Schwabenheim</a></li>
+<li><a href="/wiki/2015_Italian_football_match-fixing_scandal" title="2015 Italian football match-fixing scandal">2015 Italian football match-fixing scandal</a></li>
+<li><a href="/wiki/Maria_McBane" title="Maria McBane">Maria McBane</a></li></ul></div>
 <div style="margin: .2em 1.6em .6em; font-weight: bold;"><i><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating" title="Category:Wikipedia articles in need of updating">More...</a></i> • <a href="/wiki/Wikipedia:As_of" title="Wikipedia:As of">Learn how</a>
 </div>
 </div>
@@ -632,11 +632,11 @@ You can help improve the articles listed below! This list updates frequently, so
 <div id="stub-label" style="text-align:center; background: #f7f7f7; border: 1px solid #aaaaaa; padding: .4em; font-size: 110%; font-weight: bold;">Expand short articles
 </div>
 <div id="stub">
-<ul><li><a href="/wiki/Gymnopilus_pallidus" title="Gymnopilus pallidus">Gymnopilus pallidus</a></li>
-<li><a href="/wiki/Gymnopilus_parvulus" title="Gymnopilus parvulus">Gymnopilus parvulus</a></li>
-<li><a href="/wiki/Gymnopilus_foedatus" title="Gymnopilus foedatus">Gymnopilus foedatus</a></li>
-<li><a href="/wiki/Hebeloma_populinum" title="Hebeloma populinum">Hebeloma populinum</a></li>
-<li><a href="/wiki/Psilocybe_keralensis" title="Psilocybe keralensis">Psilocybe keralensis</a></li></ul></div>
+<ul><li><a href="/wiki/Lubiechnia_Wielka" title="Lubiechnia Wielka">Lubiechnia Wielka</a></li>
+<li><a href="/wiki/Bia%C5%82k%C3%B3wek" title="Białkówek">Białkówek</a></li>
+<li><a href="/wiki/%C5%BBabczyn" title="Żabczyn">Żabczyn</a></li>
+<li><a href="/wiki/Grzmi%C4%85ca,_Lubusz_Voivodeship" title="Grzmiąca, Lubusz Voivodeship">Grzmiąca, Lubusz Voivodeship</a></li>
+<li><a href="/wiki/Lubie%C5%84,_Lubusz_Voivodeship" title="Lubień, Lubusz Voivodeship">Lubień, Lubusz Voivodeship</a></li></ul></div>
 <div style="margin: .2em 1.6em .6em; font-weight: bold;"><i><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">More...</a></i> • <a href="/wiki/Wikipedia:Writing_better_articles#Layout" title="Wikipedia:Writing better articles">Learn how</a>
 </div>
 </div>
@@ -644,11 +644,11 @@ You can help improve the articles listed below! This list updates frequently, so
 <div id="verify-label" style="text-align:center; background: #f7f7f7; border: 1px solid #aaaaaa; padding: .4em; font-size: 110%; font-weight: bold;">Check and add references
 </div>
 <div id="verify">
-<ul><li><a href="/wiki/Magnesium_cyanide" title="Magnesium cyanide">Magnesium cyanide</a></li>
-<li><a href="/wiki/La_MaMa_Experimental_Theatre_Club" title="La MaMa Experimental Theatre Club">La MaMa Experimental Theatre Club</a></li>
-<li><a href="/wiki/HMAS_Onslow" title="HMAS Onslow">HMAS Onslow</a></li>
-<li><a href="/wiki/War_guilt_question" title="War guilt question">War guilt question</a></li>
-<li><a href="/wiki/Common_law" title="Common law">Common law</a></li></ul></div>
+<ul><li><a href="/wiki/Detribalization" title="Detribalization">Detribalization</a></li>
+<li><a href="/wiki/Micromort" title="Micromort">Micromort</a></li>
+<li><a href="/wiki/Gujarat" title="Gujarat">Gujarat</a></li>
+<li><a href="/wiki/Soroka_Medical_Center" title="Soroka Medical Center">Soroka Medical Center</a></li>
+<li><a href="/wiki/Spiral" title="Spiral">Spiral</a></li></ul></div>
 <div style="margin: .2em 1.6em .6em; font-weight: bold;"><i><a href="/wiki/Category:Wikipedia_articles_needing_factual_verification" title="Category:Wikipedia articles needing factual verification">More...</a></i> • <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">Learn how</a>
 </div>
 </div>
@@ -656,11 +656,11 @@ You can help improve the articles listed below! This list updates frequently, so
 <div id="or-label" style="text-align:center; background: #f7f7f7; border: 1px solid #aaaaaa; padding: .4em; font-size: 110%; font-weight: bold;">Fix original research issues
 </div>
 <div id="or">
-<ul><li><a href="/wiki/Three_wishes_joke" title="Three wishes joke">Three wishes joke</a></li>
-<li><a href="/wiki/The_Channel_(nightclub)" title="The Channel (nightclub)">The Channel (nightclub)</a></li>
-<li><a href="/wiki/Deep_map" title="Deep map">Deep map</a></li>
-<li><a href="/wiki/Nikolay_Malynka" title="Nikolay Malynka">Nikolay Malynka</a></li>
-<li><a href="/wiki/Turks_in_Mexico" title="Turks in Mexico">Turks in Mexico</a></li></ul></div>
+<ul><li><a href="/wiki/ICAN-II" title="ICAN-II">ICAN-II</a></li>
+<li><a href="/wiki/Amir_Machmud" title="Amir Machmud">Amir Machmud</a></li>
+<li><a href="/wiki/The_Principles_of_Psychology" title="The Principles of Psychology">The Principles of Psychology</a></li>
+<li><a href="/wiki/Oldsmobile_Cutlass" title="Oldsmobile Cutlass">Oldsmobile Cutlass</a></li>
+<li><a href="/wiki/Hall,_Bishop%27s_Tawton" title="Hall, Bishop's Tawton">Hall, Bishop's Tawton</a></li></ul></div>
 <div style="margin: .2em 1.6em .6em; font-weight: bold;"><i><a href="/wiki/Category:Articles_that_may_contain_original_research" title="Category:Articles that may contain original research">More...</a></i> • <a href="/wiki/Wikipedia:No_original_research#Synthesis_of_published_material_that_advances_a_position" title="Wikipedia:No original research">Learn how</a>
 </div>
 </div>
@@ -668,11 +668,11 @@ You can help improve the articles listed below! This list updates frequently, so
 <div id="leadcleanup-label" style="text-align:center; background: #f7f7f7; border: 1px solid #aaaaaa; padding: .4em; font-size: 110%; font-weight: bold;">Improve lead sections
 </div>
 <div id="leadcleanup">
-<ul><li><a href="/wiki/Roboto_(character)" title="Roboto (character)">Roboto (character)</a></li>
-<li><a href="/wiki/Matt_Luzunaris" title="Matt Luzunaris">Matt Luzunaris</a></li>
-<li><a href="/wiki/Siege_of_Zamo%C5%9B%C4%87" title="Siege of Zamość">Siege of Zamość</a></li>
-<li><a href="/wiki/Nairobi_College" title="Nairobi College">Nairobi College</a></li>
-<li><a href="/wiki/Bliss_(British_band)" title="Bliss (British band)">Bliss (British band)</a></li></ul></div>
+<ul><li><a href="/wiki/Blockbuster_bomb" title="Blockbuster bomb">Blockbuster bomb</a></li>
+<li><a href="/wiki/Nantclwyd_y_Dre" title="Nantclwyd y Dre">Nantclwyd y Dre</a></li>
+<li><a href="/wiki/1918%E2%80%9319_The_Arsenal_F.C._season" title="1918–19 The Arsenal F.C. season">1918–19 The Arsenal F.C. season</a></li>
+<li><a href="/wiki/2012_Portland_Timbers_season" title="2012 Portland Timbers season">2012 Portland Timbers season</a></li>
+<li><a href="/wiki/Tarantula_(DC_Comics)" title="Tarantula (DC Comics)">Tarantula (DC Comics)</a></li></ul></div>
 <div style="margin: .2em 1.6em .6em; font-weight: bold;"><i><a href="/wiki/Category:Wikipedia_introduction_cleanup" title="Category:Wikipedia introduction cleanup">More...</a></i> • <a href="/wiki/Wikipedia:Writing_better_articles#Lead_section" title="Wikipedia:Writing better articles">Learn how</a>
 </div>
 </div>
@@ -693,11 +693,11 @@ You can help improve the articles listed below! This list updates frequently, so
 <div id="translate-label" style="text-align:center; background: #f7f7f7; border: 1px solid #aaaaaa; padding: .4em; font-size: 110%; font-weight: bold;">Translate and clean up
 </div>
 <div id="translate">
-<ul><li><a href="/wiki/Inmarko" title="Inmarko">Inmarko</a></li>
-<li><a href="/wiki/Chiquet_Mawet" title="Chiquet Mawet">Chiquet Mawet</a></li>
-<li><a href="/wiki/History_of_the_federal_government_of_Ethiopia" title="History of the federal government of Ethiopia">History of the federal government of Ethiopia</a></li>
-<li><a href="/wiki/Talharpa" title="Talharpa">Talharpa</a></li>
-<li><a href="/wiki/A.S.D._Forza_e_Coraggio" title="A.S.D. Forza e Coraggio">A.S.D. Forza e Coraggio</a></li></ul></div>
+<ul><li><a href="/wiki/Hassan_Ali_Nokhodaki_Isfahani" title="Hassan Ali Nokhodaki Isfahani">Hassan Ali Nokhodaki Isfahani</a></li>
+<li><a href="/wiki/Castle_Szidonia" title="Castle Szidonia">Castle Szidonia</a></li>
+<li><a href="/wiki/Knulp" title="Knulp">Knulp</a></li>
+<li><a href="/wiki/National_Memorial_Service_for_War_Dead" title="National Memorial Service for War Dead">National Memorial Service for War Dead</a></li>
+<li><a href="/wiki/Intrinsic_value_in_animal_ethics" title="Intrinsic value in animal ethics">Intrinsic value in animal ethics</a></li></ul></div>
 <div style="margin: .2em 1.6em .6em; font-weight: bold;"><i><a href="/wiki/Category:All_Wikipedia_articles_needing_cleanup_after_translation" title="Category:All Wikipedia articles needing cleanup after translation">More...</a></i> • <a href="/wiki/Wikipedia:Pages_needing_translation_into_English#Standard_procedures" title="Wikipedia:Pages needing translation into English">Learn how</a>
 </div>
 </div>
@@ -2800,7 +2800,7 @@ Tip of the day
 <li><a href="/wiki/Wikipedia:WikiProject_Templates" title="Wikipedia:WikiProject Templates">WikiProject Templates</a></li>
 <li><a href="/wiki/Help:Template" title="Help:Template">Template help</a></li>
 <li><a href="/wiki/Wikipedia:Template_namespace" title="Wikipedia:Template namespace">Template namespace</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Search</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><div class="mw-inputbox-centered" style=""><form name="searchbox" class="searchbox" action="/wiki/Special:Search" id="style-wide-searchbox"><input class="mw-searchInput searchboxInput mw-ui-input mw-ui-input-inline" name="search" placeholder="e.g. Infoboxes" size="25" dir="ltr"/> <input type="hidden" name="ns10" value="1" id="mw-inputbox-ns10-style-wide-searchbox0.091779899031" checked="checked"/> <input type="submit" name="fulltext" class="mw-ui-button" value="Search templates"/><input type="hidden" value="Search" name="fulltext"/></form></div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-weight:bold;"><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Search</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><div class="mw-inputbox-centered" style=""><form name="searchbox" class="searchbox" action="/wiki/Special:Search" id="style-wide-searchbox"><input class="mw-searchInput searchboxInput mw-ui-input mw-ui-input-inline" name="search" placeholder="e.g. Infoboxes" size="25" dir="ltr"/> <input type="hidden" name="ns10" value="1" id="mw-inputbox-ns10-style-wide-searchbox0.968259110187" checked="checked"/> <input type="submit" name="fulltext" class="mw-ui-button" value="Search templates"/><input type="hidden" value="Search" name="fulltext"/></form></div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-weight:bold;"><div>
 <ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185"/>  <a href="/wiki/Category:Wikipedia_templates" title="Category:Wikipedia templates">Category</a></li></ul>
 </div></td></tr></tbody></table></div>
 <div class="navbox-styles"></div><div role="navigation" class="navbox" aria-labelledby=":20px_Awards,_decorations,_and_medals_of_Wikipedia" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Awards,_decorations,_and_medals_of_Wikipedia" title="Template:Awards, decorations, and medals of Wikipedia"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Awards,_decorations,_and_medals_of_Wikipedia" title="Template talk:Awards, decorations, and medals of Wikipedia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Awards,_decorations,_and_medals_of_Wikipedia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id=":20px_Awards,_decorations,_and_medals_of_Wikipedia" style="font-size:114%;margin:0 4em">
@@ -3039,40 +3039,40 @@ Tip of the day
 
 <!-- 
 NewPP limit report
-Parsed by mw1496
-Cached time: 20230530164545
-Cache expiry: 26058
+Parsed by mw1429
+Cached time: 20230530174555
+Cache expiry: 22447
 Reduced expiry: true
 Complications: [no‐toc]
-DiscussionTools time usage: 0.164 seconds
-CPU time usage: 1.150 seconds
-Real time usage: 1.558 seconds
+DiscussionTools time usage: 0.177 seconds
+CPU time usage: 1.190 seconds
+Real time usage: 1.495 seconds
 Preprocessor visited node count: 5219/1000000
-Post‐expand include size: 1103919/2097152 bytes
+Post‐expand include size: 1103906/2097152 bytes
 Template argument size: 28928/2097152 bytes
 Highest expansion depth: 16/100
 Expensive parser function count: 4/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 143958/5000000 bytes
-Lua time usage: 0.271/10.000 seconds
-Lua memory usage: 6599238/52428800 bytes
+Lua time usage: 0.304/10.000 seconds
+Lua memory usage: 6598150/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  725.595      1 -total
- 38.72%  280.956     17 Template:Navbox
- 25.96%  188.339      1 Template:Wikipedia_editor_navigation
- 16.46%  119.455      1 Wikipedia:Community_bulletin_board
- 14.93%  108.339      1 Wikipedia:Community_bulletin_board/divbox
- 14.04%  101.840      1 Template:Subject_bar
-  6.69%   48.539      1 Template:Header_navbar_community
-  6.65%   48.281      2 Template:Mbox
-  5.80%   42.098      1 Template:Basic_information
-  5.79%   41.988      1 Template:Centralized_discussion
+100.00%  731.423      1 -total
+ 44.45%  325.113     17 Template:Navbox
+ 28.12%  205.682      1 Template:Wikipedia_editor_navigation
+ 14.52%  106.166      1 Wikipedia:Community_bulletin_board
+ 13.98%  102.259      1 Template:Subject_bar
+ 13.05%   95.461      1 Wikipedia:Community_bulletin_board/divbox
+  7.62%   55.740      1 Template:Basic_information
+  6.75%   49.385      1 Template:Header_navbar_community
+  6.69%   48.950      2 Template:Mbox
+  6.59%   48.175      1 Template:Wikipedia_essays
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:1051901-0!canonical and timestamp 20230530164543 and revision id 1156764209. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1051901-0!canonical and timestamp 20230530174553 and revision id 1156764209. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
 <div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Community_portal&amp;oldid=1156764209">https://en.wikipedia.org/w/index.php?title=Wikipedia:Community_portal&amp;oldid=1156764209</a>"</div></div>
@@ -3123,6 +3123,6 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 </button>
 
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1496","wgBackendResponseTime":1679,"wgDiscussionToolsPageThreads":[{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-Welcome_to_the_community_portal!","replies":[]},{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-Interact_more","replies":[]},{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-Help_out","replies":[]},{"headingLevel":2,"name":"h-SikiWtideI-20221105024500","type":"heading","level":0,"id":"h-Community_bulletin_board-20221105024500","replies":[{"timestamp":"20230116013000","author":"VarietyEditor","type":"comment","level":1,"id":"c-VarietyEditor-20230116013000-Community_bulletin_board","replies":[{"timestamp":"20221105024500","author":"SikiWtideI","type":"comment","level":2,"id":"c-SikiWtideI-20221105024500-VarietyEditor-20230116013000","replies":[]},{"timestamp":"20230417160600","author":"Thebiguglyalien","type":"comment","level":2,"id":"c-Thebiguglyalien-20230417160600-VarietyEditor-20230116013000","replies":[]}]}]},{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-Newest_featured_content","replies":[]},{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-Tip_of_the_day","replies":[]}],"wgPageParseReport":{"discussiontools":{"limitreport-timeusage":"0.164"},"limitreport":{"cputime":"1.150","walltime":"1.558","ppvisitednodes":{"value":5219,"limit":1000000},"postexpandincludesize":{"value":1103919,"limit":2097152},"templateargumentsize":{"value":28928,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":143958,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  725.595      1 -total"," 38.72%  280.956     17 Template:Navbox"," 25.96%  188.339      1 Template:Wikipedia_editor_navigation"," 16.46%  119.455      1 Wikipedia:Community_bulletin_board"," 14.93%  108.339      1 Wikipedia:Community_bulletin_board/divbox"," 14.04%  101.840      1 Template:Subject_bar","  6.69%   48.539      1 Template:Header_navbar_community","  6.65%   48.281      2 Template:Mbox","  5.80%   42.098      1 Template:Basic_information","  5.79%   41.988      1 Template:Centralized_discussion"]},"scribunto":{"limitreport-timeusage":{"value":"0.271","limit":"10.000"},"limitreport-memusage":{"value":6599238,"limit":52428800}},"cachereport":{"origin":"mw1496","timestamp":"20230530164545","ttl":26058,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1366","wgBackendResponseTime":139,"wgDiscussionToolsPageThreads":[{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-Welcome_to_the_community_portal!","replies":[]},{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-Interact_more","replies":[]},{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-Help_out","replies":[]},{"headingLevel":2,"name":"h-SikiWtideI-20221105024500","type":"heading","level":0,"id":"h-Community_bulletin_board-20221105024500","replies":[{"timestamp":"20230116013000","author":"VarietyEditor","type":"comment","level":1,"id":"c-VarietyEditor-20230116013000-Community_bulletin_board","replies":[{"timestamp":"20221105024500","author":"SikiWtideI","type":"comment","level":2,"id":"c-SikiWtideI-20221105024500-VarietyEditor-20230116013000","replies":[]},{"timestamp":"20230417160600","author":"Thebiguglyalien","type":"comment","level":2,"id":"c-Thebiguglyalien-20230417160600-VarietyEditor-20230116013000","replies":[]}]}]},{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-Newest_featured_content","replies":[]},{"headingLevel":2,"name":"h-","type":"heading","level":0,"id":"h-Tip_of_the_day","replies":[]}],"wgPageParseReport":{"discussiontools":{"limitreport-timeusage":"0.177"},"limitreport":{"cputime":"1.190","walltime":"1.495","ppvisitednodes":{"value":5219,"limit":1000000},"postexpandincludesize":{"value":1103906,"limit":2097152},"templateargumentsize":{"value":28928,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":143958,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  731.423      1 -total"," 44.45%  325.113     17 Template:Navbox"," 28.12%  205.682      1 Template:Wikipedia_editor_navigation"," 14.52%  106.166      1 Wikipedia:Community_bulletin_board"," 13.98%  102.259      1 Template:Subject_bar"," 13.05%   95.461      1 Wikipedia:Community_bulletin_board/divbox","  7.62%   55.740      1 Template:Basic_information","  6.75%   49.385      1 Template:Header_navbar_community","  6.69%   48.950      2 Template:Mbox","  6.59%   48.175      1 Template:Wikipedia_essays"]},"scribunto":{"limitreport-timeusage":{"value":"0.304","limit":"10.000"},"limitreport-memusage":{"value":6598150,"limit":52428800}},"cachereport":{"origin":"mw1429","timestamp":"20230530174555","ttl":22447,"transientcontent":true}}});});</script>
 </body>
 </html>

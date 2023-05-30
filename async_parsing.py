@@ -1,4 +1,4 @@
-import aiohttp
+import aiohttp  # async requests
 import asyncio
 from aiofile import AIOFile
 from bs4 import BeautifulSoup
